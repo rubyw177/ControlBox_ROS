@@ -1,0 +1,2 @@
+char key
+bool state
